@@ -14,6 +14,7 @@ This is a small project and only used for educational purposes only. <br>
   pip install flask
   <hr>
   <li>sklean</li>
+  <p>you need to have sklearn module on the system if you are running any machine learnng algorithm on you computer</p>
   <hr>
   pip install scikit-learn
   <hr>
