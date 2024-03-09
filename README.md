@@ -23,7 +23,8 @@ This is a small project and only used for educational purposes only. <br>
   pip install pandas
   <hr>
 </ul>
-# How to use 
+
+# How To Use 
 <h4>This works for both windows and linux</h4>
 <ul>
 <li>his is a machine learning project running on python's Flask so First thing you have to install python on your syste form the python's official website<br></li>
