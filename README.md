@@ -2,6 +2,26 @@
 This predicts the exam marks of the particular student using the how may hours the student is studing and his age and does he have internet connection or not based on this inputs it predicts how much can a student can sore in exam this uses the linear regression algorithm <br>
 # Caution 
 This is a small project and only used for educational purposes only. <br>
+# You Need To Have On Your System
+<ul>
+  <li>Python</li>
+  <p>Download the lates version</p>
+  <hr>
+  https://www.python.org/downloads/
+  <hr>
+  <li>Flask</li>
+  <hr>
+  pip install flask
+  <hr>
+  <li>sklean</li>
+  <hr>
+  pip install scikit-learn
+  <hr>
+  <li>pandas</li>
+  <hr>
+  pip install pandas
+  <hr>
+</ul>
 # How to use 
 <h4>This works for both windows and linux</h4>
 <ul>
