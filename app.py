@@ -12,7 +12,7 @@ def index():
         age = data.get('textage')
         internet = data.get('textinternet')
         if 'buttonpredict' in request.form:
-            path = "/home/darpanyb/Documents/DARPAN/code project/github kt/Data/Exammarks.csv"
+            path = "--------<your file path>------/Exammarks.csv"
             data = pd.read_csv(path)
             medianvalue = data.hours.median()
             data.hours = data.hours.fillna(medianvalue)
