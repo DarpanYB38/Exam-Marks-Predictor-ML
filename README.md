@@ -1,5 +1,5 @@
 # Exam-Marks-Predictor-ML
-This predicts the exam marks of the particular student using the how may hours the student is studing and his age and does he have internet connection or not based on this inputs it predicts how much can a student can sore in exam this uses the linear regression algorithm <br>
+This predicts the exam marks of the particular student using the how may hours the student is studing and his age and does he have internet connection or not based on this inputs it predicts how much can a student can score in exam this uses the linear regression algorithm <br>
 # Caution 
 This is a small project and only used for educational purposes only. <br>
 # You Need To Have On Your System
