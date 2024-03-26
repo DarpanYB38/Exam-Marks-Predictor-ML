@@ -12,7 +12,7 @@ git clone https://github.com/Darpan YB38/exam-marks-prediction-system.git
 
 Install dependencies:
 latest version of python
-pip i stall flask
+pip install flask
 
 Run the Flask application:
 python app.py
